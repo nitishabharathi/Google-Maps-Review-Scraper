@@ -1,0 +1,2 @@
+tkinter
+python-googlegeocoder==0.4.0
