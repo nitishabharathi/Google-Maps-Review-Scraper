@@ -1,7 +1,7 @@
 # Google Map Review Scraper
 Web scrapper that scraps reviews based on a place ID
 
-![scraper](https://github.com/nitishabharathi/Google-Review-Scraper/blob/master/scraper.JPG?raw=true)
+![scraper](https://github.com/nitishabharathi/Google-Maps-Review-Scraper/blob/master/review%20scraper.JPG?raw=true)
 
 ## Usage
 
