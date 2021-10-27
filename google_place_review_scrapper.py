@@ -134,10 +134,7 @@ OPTIONS = [
 'synagogue',
 'taxi_stand',
 'train_station',
-'transit_station',
-'travel_agency',
-'veterinary_care',
-'zoo'
+'tran
 
 ] #etc
 
